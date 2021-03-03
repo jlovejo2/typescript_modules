@@ -1,0 +1,22 @@
+{
+  "name": "typescript_modules",
+  "version": "1.0.0",
+  "description": "pluralsight typescript modules course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlovejo2/typescript_modules.git"
+  },
+  "author": "james lovejoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlovejo2/typescript_modules/issues"
+  },
+  "homepage": "https://github.com/jlovejo2/typescript_modules#readme",
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  }
+}
